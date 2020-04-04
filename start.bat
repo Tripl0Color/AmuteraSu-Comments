@@ -1,1 +1,1 @@
-node spam.js
+npm i vk-io npm i colors node spam.js
